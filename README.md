@@ -11,8 +11,18 @@ Note: The above project overview was extracted from the background to the module
   - scraping.py
   - app.py
   - index.html
+ 
+### Software/Libraries: 
+  - Visual Studio Code 1.56.0
+  - jupyter Notebook 6.3.0 
+  - Flask 1.1.2, Splinter 1.26.4
+  - Web Drive Manager
+  - Beautiful Soup 
+  - Pymongo
+  - MongoDB 4.4.6
+  - Mongo DB Compass
+  - htmlslib, lxml
   - 
-### Software/Libraries: Visual Studio Code 1.56.0, jupyter Notebook 6.3.0, Jupyter lab 3.0.14, Flask 1.1.2, Splinter 1.26.4, Web Drive Manager, Beautiful Soup, Pymongo, MongoDB 4.4.6, Mongo DB Compass, htmlslib, lxml.
 ## Project Result
 Scrape Full-Resolution Mars Hemisphere Images and Titles
 
